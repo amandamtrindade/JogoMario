@@ -9,10 +9,16 @@ O objetivo do jogo é controlar o Mário e pular os obstáculos que aparecem pel
 - TypeScript
 - 
 ## Instalação
-cd frontend
-npm install
+Não há dependências para instalar. 
+O projeto utiliza apenas HTML, CSS e JavaScript puro.
 ## Execução
-npm run dev
+- Clone o repositório
+- Acesse a pasta frontend/
+- Abra o arquivo index.html diretamente no navegador
+Alternativamente, você pode usar a extensão "Live Server" do VS Code:
+- Abra a pasta frontend/ no VS Code
+- Clique com o botão direito em index.html
+- Selecione "Open with Live Server"
 ## Integrantes 
 | Nome | Matrícula | Papel |
 |------|-----------|-------|
@@ -20,3 +26,6 @@ npm run dev
 | Maiara Camarotti | 01935636 | Teste |
 | Amanda Medeiros |01896858 | Scrum Master |
 | Victory Lesson | 01887163 | Dsenvolverdor |
+## Considerações
+Este projeto acadêmico foi uma oportunidade de aplicar, na prática, conceitos de lógica de programação.
+Após a sessão de testes, asseguramos que o jogo está rodando perfeitamente como proposto na atividade. 

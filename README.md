@@ -15,6 +15,7 @@ O projeto utiliza apenas HTML, CSS e JavaScript puro.
 - Clone o repositório
 - Acesse a pasta frontend/
 - Abra o arquivo index.html diretamente no navegador
+## Outra opção para Execução
 Alternativamente, você pode usar a extensão "Live Server" do VS Code:
 - Abra a pasta frontend/ no VS Code
 - Clique com o botão direito em index.html

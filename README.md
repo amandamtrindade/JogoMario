@@ -26,7 +26,7 @@ Alternativamente, você pode usar a extensão "Live Server" do VS Code:
 | Camila Souza | 01875506 | Documentação|
 | Maiara Camarotti | 01935636 | Teste |
 | Amanda Medeiros |01896858 | Scrum Master |
-| Victory Lesson | 01887163 | Dsenvolverdor |
+| Victory Lesson | 01887163 | Desenvolvedor |
 ## Considerações
 Este projeto acadêmico foi uma oportunidade de aplicar, na prática, conceitos de lógica de programação.
 Após a sessão de testes, asseguramos que o jogo está rodando perfeitamente como proposto na atividade. 
